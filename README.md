@@ -1,12 +1,12 @@
-# Hi 👋, I'm Ewans Angel LS
+<h1 align="center">Hi 👋, I'm Ewans Angel LS</h1>
 
-### Aspiring Software Developer | MERN Stack Learner | B.Tech Information Technology Student
+<h3 align="center">
+Aspiring Software Developer | MERN Stack Learner | B.Tech Information Technology Student
+</h3>
 
-💻 Passionate about Web Development and Software Development  
-🌱 Currently learning MERN Stack Development  
-🚀 Building responsive and user-friendly web applications  
-🤖 Interested in AI, Machine Learning and Full Stack Development  
-🎯 Open to Internship and Entry-Level Opportunities  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Always+Learning+New+Technologies;Frontend+Developer;Building+Web+Applications;MERN+Stack+Learner;Passionate+About+Coding" />
+</p>
 
 ---
 
