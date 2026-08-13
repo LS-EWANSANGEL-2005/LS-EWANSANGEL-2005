@@ -101,6 +101,11 @@ An IoT-based safety system for detecting intrusion and monitoring electric fence
 - 🟡 LeetCode: https://leetcode.com/u/EwansAngel_2005/
 
 ---
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/LS-EWANSANGEL-2005/LS-EWANSANGEL-2005/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 🤝 Connect With Me
 
