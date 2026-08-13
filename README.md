@@ -103,9 +103,9 @@ An IoT-based safety system for detecting intrusion and monitoring electric fence
 
 ## 🤝 Connect With Me
 
-💼 LinkedIn: Add your LinkedIn profile here
+💼 LinkedIn: : https://www.linkedin.com/in/ewans-angel-l-s
 
-📧 Email: Add your professional email here
+📧 Email: ewansangel2005@gmail.com
 
 💻 GitHub: https://github.com/LS-EWANSANGEL-2005
 
