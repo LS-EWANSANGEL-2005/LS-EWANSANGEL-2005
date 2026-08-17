@@ -23,30 +23,35 @@ Aspiring Software Developer | MERN Stack Learner | B.Tech Information Technology
 ---
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
 
 ### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔧 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
