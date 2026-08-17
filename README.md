@@ -106,7 +106,7 @@ An IoT-based safety system for detecting intrusion and monitoring electric fence
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LS-EWANSANGEL-2005/LS-EWANSANGEL-2005/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/LS-EWANSANGEL-2005/LS-EWANSANGEL-2005/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
 -----
