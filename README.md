@@ -87,18 +87,11 @@ An IoT-based safety system for detecting intrusion and monitoring electric fence
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-
-🔥 **Keep Coding • Keep Learning • Keep Building** 🚀
-
+  <img src="https://streak-stats.demolab.com/?user=LS-EWANSANGEL-2005&theme=tokyonight&hide_border=false" />
 </p>
-
-----
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/LS-EWANSANGEL-2005/LS-EWANSANGEL-2005/output/github-contribution-grid-snake.svg)
 
 ----
 
