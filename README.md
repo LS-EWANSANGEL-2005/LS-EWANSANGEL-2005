@@ -23,8 +23,29 @@ Aspiring Software Developer | MERN Stack Learner | B.Tech Information Technology
 ---
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🔧 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
