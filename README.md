@@ -112,8 +112,21 @@ An IoT-based safety system for detecting intrusion and monitoring electric fence
 
 ## 💻 Coding Profiles
 
-- 🟢 GitHub: [LS-EWANSANGEL-2005](https://github.com/LS-EWANSANGEL-2005)
-- 🟡 LeetCode: https://leetcode.com/u/EwansAngel_2005/
+<p align="center">
+
+<a href="https://leetcode.com/u/EwansAngel_2005/">
+<img src="https://img.shields.io/badge/LeetCode-EwansAngel__2005-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/LS-EWANSANGEL-2005">
+<img src="https://img.shields.io/badge/GitHub-LS--EWANSANGEL--2005-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/ewansangel2005">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
